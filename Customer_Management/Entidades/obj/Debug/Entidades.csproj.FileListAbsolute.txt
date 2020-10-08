@@ -1,0 +1,16 @@
+J:\Customer_Management\Entidades\bin\Debug\Entidades.dll
+J:\Customer_Management\Entidades\bin\Debug\Entidades.pdb
+J:\Customer_Management\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+J:\Customer_Management\Entidades\obj\Debug\Entidades.dll
+J:\Customer_Management\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Alumno\Desktop\Customer_Management\Entidades\bin\Debug\Entidades.dll
+C:\Users\Alumno\Desktop\Customer_Management\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Alumno\Desktop\Customer_Management\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Desktop\Customer_Management\Entidades\obj\Debug\Entidades.dll
+C:\Users\Alumno\Desktop\Customer_Management\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Jano\Desktop\Customer_Management\Entidades\bin\Debug\Entidades.dll
+C:\Users\Jano\Desktop\Customer_Management\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Jano\Desktop\Customer_Management\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Jano\Desktop\Customer_Management\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Jano\Desktop\Customer_Management\Entidades\obj\Debug\Entidades.dll
+C:\Users\Jano\Desktop\Customer_Management\Entidades\obj\Debug\Entidades.pdb

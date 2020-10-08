@@ -1,0 +1,13 @@
+C:\Users\Jano\Desktop\Customer_Management\DeskTopClientes\bin\Debug\DeskTopClientes.exe.config
+C:\Users\Jano\Desktop\Customer_Management\DeskTopClientes\bin\Debug\DeskTopClientes.exe
+C:\Users\Jano\Desktop\Customer_Management\DeskTopClientes\bin\Debug\DeskTopClientes.pdb
+C:\Users\Jano\Desktop\Customer_Management\DeskTopClientes\bin\Debug\Entidades.dll
+C:\Users\Jano\Desktop\Customer_Management\DeskTopClientes\bin\Debug\Entidades.pdb
+C:\Users\Jano\Desktop\Customer_Management\DeskTopClientes\obj\Debug\DeskTopClientes.csprojAssemblyReference.cache
+C:\Users\Jano\Desktop\Customer_Management\DeskTopClientes\obj\Debug\DeskTopClientes.FrmClientes.resources
+C:\Users\Jano\Desktop\Customer_Management\DeskTopClientes\obj\Debug\DeskTopClientes.Properties.Resources.resources
+C:\Users\Jano\Desktop\Customer_Management\DeskTopClientes\obj\Debug\DeskTopClientes.csproj.GenerateResource.cache
+C:\Users\Jano\Desktop\Customer_Management\DeskTopClientes\obj\Debug\DeskTopClientes.csproj.CoreCompileInputs.cache
+C:\Users\Jano\Desktop\Customer_Management\DeskTopClientes\obj\Debug\DeskTopClientes.csproj.CopyComplete
+C:\Users\Jano\Desktop\Customer_Management\DeskTopClientes\obj\Debug\DeskTopClientes.exe
+C:\Users\Jano\Desktop\Customer_Management\DeskTopClientes\obj\Debug\DeskTopClientes.pdb

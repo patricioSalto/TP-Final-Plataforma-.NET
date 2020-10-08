@@ -1,0 +1,85 @@
+﻿@model IEnumerable<Entidades.ClienteModel>
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    ViewBag.Title = "Clientes";
+}
+
+<h2>Lista de clientes</h2>
+
+<p>
+    @Html.ActionLink("Crear un cliente", "Create")
+</p>
+
+@using (Html.BeginForm("clienteBuscar", "Cliente"))
+{
+    <label class="sr-only" for="inlineFormInputGroup">filtro</label>
+        <div class="input-group mb-2 mr-sm-2 mb-sm-0">
+            <input type="text" class="form-control" id="inlineFormInputGroup" name="filtro" placeholder="Filtro">
+        </div>
+
+        <button type="submit" class="btn btn-primary">Buscar</button>
+}
+
+    @*<form class="form-inline" action="Cliente/clienteBuscar" method="post">
+
+        
+    </form>*@
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Tipo_documento)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Nro_documento)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Nombre)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Direccion)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Telefono)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Correo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Estados)
+            </th>
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Tipo_documento)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Nro_documento)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Nombre)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Direccion)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Telefono)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Correo)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Estados)
+                </td>
+                <td>
+                    @Html.ActionLink("Editar", "Edit", new { id = item.Id }) |
+                    @Html.ActionLink("Eliminar", "Delete", new { id = item.Id })
+                </td>
+            </tr>
+        }
+
+    </table>
