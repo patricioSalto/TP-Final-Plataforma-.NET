@@ -23,3 +23,12 @@ C:\Users\Jano\Desktop\Customer_Management\Class_Library\obj\Debug\Class_Library.
 C:\Users\Jano\Desktop\Customer_Management\Class_Library\obj\Debug\Class_Library.csproj.CopyComplete
 C:\Users\Jano\Desktop\Customer_Management\Class_Library\obj\Debug\Class_Library.dll
 C:\Users\Jano\Desktop\Customer_Management\Class_Library\obj\Debug\Class_Library.pdb
+C:\xampp\htdocs\GitHub\Customer_Management\Customer_Management\Class_Library\bin\Debug\Class_Library.dll
+C:\xampp\htdocs\GitHub\Customer_Management\Customer_Management\Class_Library\bin\Debug\Class_Library.pdb
+C:\xampp\htdocs\GitHub\Customer_Management\Customer_Management\Class_Library\bin\Debug\Entidades.dll
+C:\xampp\htdocs\GitHub\Customer_Management\Customer_Management\Class_Library\bin\Debug\Entidades.pdb
+C:\xampp\htdocs\GitHub\Customer_Management\Customer_Management\Class_Library\obj\Debug\Class_Library.csprojAssemblyReference.cache
+C:\xampp\htdocs\GitHub\Customer_Management\Customer_Management\Class_Library\obj\Debug\Class_Library.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\GitHub\Customer_Management\Customer_Management\Class_Library\obj\Debug\Class_Library.csproj.CopyComplete
+C:\xampp\htdocs\GitHub\Customer_Management\Customer_Management\Class_Library\obj\Debug\Class_Library.dll
+C:\xampp\htdocs\GitHub\Customer_Management\Customer_Management\Class_Library\obj\Debug\Class_Library.pdb

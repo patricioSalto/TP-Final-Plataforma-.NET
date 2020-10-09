@@ -11,3 +11,16 @@ C:\Users\Jano\Desktop\Customer_Management\DeskTopClientes\obj\Debug\DeskTopClien
 C:\Users\Jano\Desktop\Customer_Management\DeskTopClientes\obj\Debug\DeskTopClientes.csproj.CopyComplete
 C:\Users\Jano\Desktop\Customer_Management\DeskTopClientes\obj\Debug\DeskTopClientes.exe
 C:\Users\Jano\Desktop\Customer_Management\DeskTopClientes\obj\Debug\DeskTopClientes.pdb
+C:\xampp\htdocs\GitHub\Customer_Management\Customer_Management\DeskTopClientes\bin\Debug\DeskTopClientes.exe.config
+C:\xampp\htdocs\GitHub\Customer_Management\Customer_Management\DeskTopClientes\bin\Debug\DeskTopClientes.exe
+C:\xampp\htdocs\GitHub\Customer_Management\Customer_Management\DeskTopClientes\bin\Debug\DeskTopClientes.pdb
+C:\xampp\htdocs\GitHub\Customer_Management\Customer_Management\DeskTopClientes\bin\Debug\Entidades.dll
+C:\xampp\htdocs\GitHub\Customer_Management\Customer_Management\DeskTopClientes\bin\Debug\Entidades.pdb
+C:\xampp\htdocs\GitHub\Customer_Management\Customer_Management\DeskTopClientes\obj\Debug\DeskTopClientes.csprojAssemblyReference.cache
+C:\xampp\htdocs\GitHub\Customer_Management\Customer_Management\DeskTopClientes\obj\Debug\DeskTopClientes.FrmClientes.resources
+C:\xampp\htdocs\GitHub\Customer_Management\Customer_Management\DeskTopClientes\obj\Debug\DeskTopClientes.Properties.Resources.resources
+C:\xampp\htdocs\GitHub\Customer_Management\Customer_Management\DeskTopClientes\obj\Debug\DeskTopClientes.csproj.GenerateResource.cache
+C:\xampp\htdocs\GitHub\Customer_Management\Customer_Management\DeskTopClientes\obj\Debug\DeskTopClientes.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\GitHub\Customer_Management\Customer_Management\DeskTopClientes\obj\Debug\DeskTopClientes.csproj.CopyComplete
+C:\xampp\htdocs\GitHub\Customer_Management\Customer_Management\DeskTopClientes\obj\Debug\DeskTopClientes.exe
+C:\xampp\htdocs\GitHub\Customer_Management\Customer_Management\DeskTopClientes\obj\Debug\DeskTopClientes.pdb

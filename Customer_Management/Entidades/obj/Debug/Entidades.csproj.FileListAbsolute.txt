@@ -14,3 +14,9 @@ C:\Users\Jano\Desktop\Customer_Management\Entidades\obj\Debug\Entidades.csprojAs
 C:\Users\Jano\Desktop\Customer_Management\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
 C:\Users\Jano\Desktop\Customer_Management\Entidades\obj\Debug\Entidades.dll
 C:\Users\Jano\Desktop\Customer_Management\Entidades\obj\Debug\Entidades.pdb
+C:\xampp\htdocs\GitHub\Customer_Management\Customer_Management\Entidades\bin\Debug\Entidades.dll
+C:\xampp\htdocs\GitHub\Customer_Management\Customer_Management\Entidades\bin\Debug\Entidades.pdb
+C:\xampp\htdocs\GitHub\Customer_Management\Customer_Management\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\xampp\htdocs\GitHub\Customer_Management\Customer_Management\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\GitHub\Customer_Management\Customer_Management\Entidades\obj\Debug\Entidades.dll
+C:\xampp\htdocs\GitHub\Customer_Management\Customer_Management\Entidades\obj\Debug\Entidades.pdb
